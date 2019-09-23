@@ -45,7 +45,8 @@ button {
 }
 
 #menu-link {
-	margin-right: 30px;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-family: 'Roboto Condensed', sans-serif;
 	color: white;
 	font-size: 17pt;
